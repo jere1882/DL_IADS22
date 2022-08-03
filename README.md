@@ -1,1 +1,2 @@
-# DL_IADS22
+# Takeaways from deep learning summer school IADS22
+
